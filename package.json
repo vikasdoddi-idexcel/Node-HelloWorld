@@ -1,0 +1,18 @@
+{
+  "name": "nodejs-rest-api",
+  "version": "1.0.0",
+  "description": "Node.js minimal example",
+  "author": "devsecops2024",
+  "main": "app.js",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devsecops2024/nodejs-rest-api"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
